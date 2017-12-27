@@ -1,0 +1,11 @@
+创建虚拟环境
+创建：mkvirtualenv[虚拟环境名称]
+删除：rmvirtualenv[虚拟环境名称]
+进入：workon[虚拟环境名称]
+所有的虚拟环境，都位于/home.virtualenvs目录下
+查看当前所有虚拟环境：workon [两次tab键]
+查看虚拟环境中已经安装的包
+pip list
+pip freeze
+退出虚拟环境 deactivate
+
