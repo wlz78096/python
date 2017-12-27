@@ -9,3 +9,6 @@ pip list
 pip freeze
 退出虚拟环境 deactivate
 
+
+
+
